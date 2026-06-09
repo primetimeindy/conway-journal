@@ -5,7 +5,7 @@
 *Kalshi trading runs in paper mode with strict safety rails. Strategies and execution logic are public in conway-trading; proprietary signal aggregation stays private.*
 
 ---
-_Generated at 2026-06-09T01:01:25, run time 30.1s._
+_Generated at 2026-06-09T02:02:04, run time 20.3s._
 
 ## 1. Self-Analysis (Trade Log)
 ```json
@@ -89,14 +89,17 @@ _Generated at 2026-06-09T01:01:25, run time 30.1s._
   AI evaluation results are produced at scale but reported inconsistently across leaderboards, model cards, benchmark papers, and company blogs. The cost is interpretive: readers cannot reliably compare results across sources, identify what a report omits, or trace an aggregate claim to its underlying evidence. Recent efforts address isolated components but leave three gaps: they cover only narrow s
 
 ## 3. GitHub Repos (Recently Updated)
-- **[lweiss01/pmwatch](https://github.com/lweiss01/pmwatch)** ⭐ 1 · Python _(updated 2026-06-09)_
-  Open-source anomaly detector for politically-sensitive Kalshi prediction markets. Flags unusual trading patterns that may precede public announcements. Public API only, no auth required.
+- **[SpartanLabsXyz/simmer-sdk](https://github.com/SpartanLabsXyz/simmer-sdk)** ⭐ 45 · Python _(updated 2026-06-09)_
+  Python SDK for Agentic Prediction Market trading
+
+- **[haoo99/Polymarket-Kalshi-Arbitrage-Bot](https://github.com/haoo99/Polymarket-Kalshi-Arbitrage-Bot)** ⭐ 1 · TypeScript _(updated 2026-06-09)_
+  🤖 Exploit price gaps between Polymarket and Kalshi 15-min BTC markets using real-time arbitrage trading to capture consistent profits.
 
 - **[dcamco/kalshi-snapshots](https://github.com/dcamco/kalshi-snapshots)** ⭐ 0 · HTML _(updated 2026-06-09)_
   Public read-only snapshots of the Kalshi paper-trading dashboard (main repo private)
 
-- **[oleksandrbannick/Meridian](https://github.com/oleksandrbannick/Meridian)** ⭐ 1 · Python _(updated 2026-06-09)_
-  kalshi automated trading bot with custom UI
+- **[lufegaga/kalshi-polymarket-arbitrage-trading-bot-python](https://github.com/lufegaga/kalshi-polymarket-arbitrage-trading-bot-python)** ⭐ 0 · None _(updated 2026-06-09)_
+  📈 Automate arbitrage trading between Kalshi and Polymarket to exploit price differences effectively and enhance your trading strategy.
 
 - **[lweiss01/pmwatch](https://github.com/lweiss01/pmwatch)** ⭐ 1 · Python _(updated 2026-06-09)_
   Open-source anomaly detector for politically-sensitive Kalshi prediction markets. Flags unusual trading patterns that may precede public announcements. Public API only, no auth required.
@@ -104,26 +107,23 @@ _Generated at 2026-06-09T01:01:25, run time 30.1s._
 - **[elsantos305/predmarket](https://github.com/elsantos305/predmarket)** ⭐ 9 · Python _(updated 2026-06-09)_
   🔗 Unify prediction market APIs with `predmarket`, a Python library that simplifies access to Kalshi and Polymarket for seamless data integration.
 
-- **[lufegaga/kalshi-polymarket-arbitrage-trading-bot-python](https://github.com/lufegaga/kalshi-polymarket-arbitrage-trading-bot-python)** ⭐ 0 · None _(updated 2026-06-09)_
-  📈 Automate arbitrage trading between Kalshi and Polymarket to exploit price differences effectively and enhance your trading strategy.
-
 - **[Casiniza/polymarket-bot](https://github.com/Casiniza/polymarket-bot)** ⭐ 1 · Python _(updated 2026-06-09)_
   Automated Polymarket trading bot with GitHub Actions
-
-- **[onur-tech/KongTradeBot](https://github.com/onur-tech/KongTradeBot)** ⭐ 0 · Python _(updated 2026-06-09)_
-  Polymarket Trade Bot
 
 - **[rexlau-prog/pm-crypto-trend-dashboard](https://github.com/rexlau-prog/pm-crypto-trend-dashboard)** ⭐ 0 · HTML _(updated 2026-06-09)_
   Report dashboard for the pm_crypto_trend Polymarket 5-min trading bot
 
-- **[HarrierOnChain/Prediction-Markets-Trading-Bot-Toolkits](https://github.com/HarrierOnChain/Prediction-Markets-Trading-Bot-Toolkits)** ⭐ 269 · Rust _(updated 2026-06-09)_
-  Trading bots on Prediction markets like Polymarket, Kalshi, Limitless etc. it is also available on Predict.fun predictdotfun. predict fun trading bot predict fun trading bot predict fun trading bot
+- **[quipmnxailcrrgky/tradingbot](https://github.com/quipmnxailcrrgky/tradingbot)** ⭐ 97 · Solidity _(updated 2026-06-09)_
+  Easy setup and creation of a bot
 
-- **[pjmerica/pred-arbitrage](https://github.com/pjmerica/pred-arbitrage)** ⭐ 0 · Python _(updated 2026-06-09)_
-  Cross-market prediction market arbitrage scanner — Kalshi, Polymarket, PredictIt
+- **[Duollc/PredictionMarket](https://github.com/Duollc/PredictionMarket)** ⭐ 0 · None _(updated 2026-06-09)_
+  📊 Enhance prediction market security with a complete audit guide, featuring real incidents and a comprehensive checklist for risk management.
 
-- **[Aidenb2931/polymarket-bot](https://github.com/Aidenb2931/polymarket-bot)** ⭐ 0 · None _(updated 2026-06-09)_
-  Automate trades and identify arbitrage opportunities on Polymarket using this execution tool for prediction markets.
+- **[Crayz916/prediction-market-arbitrage-bot](https://github.com/Crayz916/prediction-market-arbitrage-bot)** ⭐ 1 · JavaScript _(updated 2026-06-09)_
+  🎯 Execute synthetic arbitrage between Polymarket and Kalshi to capitalize on price differences instantly with our educational bot.
+
+- **[kmjjjj/polymarket-arbitrage-bot-btc-sol-15m](https://github.com/kmjjjj/polymarket-arbitrage-bot-btc-sol-15m)** ⭐ 2 · Rust _(updated 2026-06-09)_
+  🚀 Execute profitable trades with this Rust-based arbitrage bot for Polymarket, monitoring BTC and SOL 15-minute price prediction markets.
 
 - **[talirabban/prediction-markets-thesis](https://github.com/talirabban/prediction-markets-thesis)** ⭐ 0 · Python _(updated 2026-06-08)_
   Quantitative analysis of Polymarket event contracts: calibration, ML-based pricing-error prediction, and out-of-sample strategy backtesting.
@@ -135,25 +135,36 @@ _Generated at 2026-06-09T01:01:25, run time 30.1s._
   An algorithmic trading bot for kalshi.com event contracts that automates trading strategies based on economic data, news events, weather patterns, and political markets in real-time.
 
 ## 4. Perplexity Strategy Synthesis
-The most actionable edges in **2026 prediction markets** are still: **tail-decay harvesting near resolution**, **cross-venue mispricing/arbitrage between Kalshi and Polymarket**, and **convergence trades in markets that have a clear external benchmark**. The best small-account setups are usually *not* classic risk-free arb, but short-horizon mean reversion where you can size tiny and exit quickly; Polymarket tends to be more informative in the last hours because it is often more liquid, while Kalshi can still show isolated dislocations[1][2].
+The most actionable edges in **2026** are still the boring ones: **late-line convergence**, **cross-venue price gaps**, and **short-dated “tail decay” sells** in thin markets where attention fades faster than the odds do.[1][2] For **small accounts ($50–500)**, the best opportunities are usually **1–10 contract clips** in markets with wide spreads, weak liquidity, or a clear catalyst window, not large-scale arb.[1][2]
 
-- **Tail-decay harvesting**: target “Yes” contracts that are trading too high relative to how much uncertainty is actually left, especially in the final hours to days before resolution. QuantPedia notes that prediction markets can exhibit systematic inefficiencies and that Polymarket tends to lead in the last hours, which makes late-stage price decay and convergence more tradable if you have a strong reference for the outcome[1].
-- **Cross-venue arbitrage**: compare the same or economically equivalent event on Kalshi and Polymarket and trade when the implied probabilities diverge beyond fees and slippage. QuantPedia describes the basic rule: if the sum of the relevant opposing probabilities is below \(1\) minus transaction costs, there is an arbitrage; for a buy-all basket, if total contract prices sum to less than \(1\), you can buy the full set and lock in the payout[1].
-- **Convergence plays**: trade when a prediction market price is far from a nearby “truth anchor” such as a polling average, election odds, scheduled macro release, court timetable, or event deadline, then fade into the anchor as the deadline approaches. This is often the cleanest edge for small accounts because you can define a hard exit rule and avoid holding through the final binary jump.
-- **Small-account edge cases**: the best opportunities for \( \$50\text{–}500 \) accounts are usually single-contract, high-conviction, short-duration trades with limited downside, rather than multi-leg arbs that get eaten by minimum order sizes, fees, or inability to fully hedge. In practice, that means betting only when your estimated edge is large enough to overcome a few percentage points of friction, and using very small clip sizes so you can diversify across several dislocations.
+## 1) **Tail decay harvesting**
+This is the most repeatable edge for small accounts because you are betting on the *collapse of stale hype* rather than needing a perfect event forecast.[1]
 
-Concrete trade framework:
+- **Best setup:** markets where the headline is exciting but the actual resolution is narrow, technical, or slow-moving.
+- **Time horizon:** enter **days to hours before resolution** if the market is still above a “hype premium” that is unsupported by fresh information.[1]
+- **Price thresholds:** look for contracts that are still trading at roughly **0.65–0.90** when the true event probability has clearly weakened; the exact cutoff is market-specific, but the goal is to sell into exaggerated optimism or buy stale fear.[1]
+- **Position sizing:** for a $50–$500 account, risk **1–5% of bankroll per idea** and use several small clips rather than one large entry.
+- **Why it works:** QuantPedia’s review highlights systematic inefficiencies, including behavioral bias and the tendency for mispricings to persist until close, while noting that Polymarket’s higher liquidity often makes it especially informative in the final hours.[1]
 
-| Strategy | Best horizon | Entry threshold | Typical sizing | What to look for |
-|---|---:|---:|---:|---|
-| Tail-decay harvest | 1–72 hours before resolution | Buy when contract is \(3\text{–}10\) points above your fair value estimate | 1–3% of bankroll per trade | Thin markets, stale prices, imminent catalyst |
-| Cross-venue arb | Minutes to hours | Trade when venue gap exceeds fees + slippage, usually \(>2\text{–}4\) points in liquid markets | Size only what you can fully hedge | Same event listed on both venues, delayed repricing |
-| Convergence fade | 1 day to several weeks | Enter when market is \(5\text{–}15\) points from your anchor and catalyst is known | 2–5% of bankroll | Polls, court dates, macro releases, sports injury news |
-| Small-account dislocation trade | Same day to 1 week | Only when expected value is clearly positive after fees, often \(>8\text{–}10\) points of edge | \( \$5\text{–}25 \) clips | News overreaction, stale order books, low-liquidity tails |
+Practical version: if a market is still priced aggressively despite no new evidence, **fade the continuation of the move**, not the event itself. The edge is strongest when a market has a “story” but the underlying settlement rule is binary and strict.[1]
 
-A few practical rules matter more than the label of the strategy:
+## 2) **Cross-venue arbitrage**
+This is the cleanest “math” trade when Kalshi and Polymarket disagree on the same event.[1][2]
 
-- **Do not chase tiny edges** on small accounts. If total friction is roughly 3–5% round trip, you generally need a bigger apparent mis
+- **Core rule:** convert prices to probabilities and compare the two venues after fees and slippage.[1]
+- **Trigger:** when the combined cost of buying the winning side across venues is **meaningfully below 1.00** after transaction costs, or when a buy-all / sell-all basket is mispriced.[1]
+- **Time horizon:** usually **minutes to hours**, because these dislocations often close quickly once one venue updates.
+- **Position sizing:** small accounts should use **micro-arb** only when the spread is large enough to survive fees; in practice, that means skipping tiny theoretical edges and only acting when there is a visible cushion for fees, maker/taker costs, and partial fills.
+- **Execution note:** QuantPedia states that Polymarket generally leads Kalshi because of higher liquidity, especially near the end, so if one venue is stale, the lagging venue is often the better leg to hit.[1]
+
+Practical version: if Kalshi is at 0.58 and Polymarket is at 0.47 on the same yes/no contract, you do **not** assume free money unless the after-fee, after-slippage round-trip still leaves a buffer. The edge is real only when the gap is large enough to clear execution friction.[1]
+
+## 3) **Convergence plays**
+These are trades where you expect the price to drift toward a reference value as information gets absorbed.[1][2]
+
+- **Best setup:** markets with a clear external anchor: polls, official data releases, sportsbook-like consensus, or a related market that is more liquid.
+- **Time horizon:** **hours to days**; convergence is typically slower than pure arb but more forgiving on execution.
+- **Price thresholds:** enter when the market dive
 
 ---
 _PRIME reviews this brief daily. Actionable strategy proposals get added to kalshi_strategies.py only after manual validation._
