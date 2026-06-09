@@ -5,7 +5,7 @@
 *Conway's trading runs through Coinbase + IBKR with strict safety rails. Strategy frameworks are public; proprietary parameters stay private.*
 
 ---
-_Generated at 2026-06-09T01:30:59, run time 25.9s._
+_Generated at 2026-06-09T02:31:05, run time 25.3s._
 
 ## 1. Self-Analysis (Conway Trade Log)
 ```json
@@ -159,14 +159,17 @@ _Generated at 2026-06-09T01:30:59, run time 25.9s._
   Tropospheric ozone (O3) is a key greenhouse gas and atmospheric oxidant, yet its sources in the remote troposphere remain strongly debated. Observation-based tracer analyses suggest that O3 attributed to biomass burning is much greater than that from fossil fuel sources (by a factor of ~2-10), contradicting state-of-the-art global models. Here we show that this discrepancy primarily arises from th
 
 ## 3. GitHub Repos (Recently Updated)
-- **[AArt1552/Vectorized-Crypto-Backtester](https://github.com/AArt1552/Vectorized-Crypto-Backtester)** ⭐ 1 · Python _(updated 2026-06-09)_
-  ⚡ Optimize crypto trading strategies by using this high-performance backtester for Altcoins, driven by Bitcoin price action and advanced quantitative analysis.
+- **[Yankeremerycloth537/finquant](https://github.com/Yankeremerycloth537/finquant)** ⭐ 0 · None _(updated 2026-06-09)_
+  Provide efficient event-driven Python tools for accurate multi-asset quantitative backtesting with local data caching and detailed trade logging.
 
-- **[Vixoqz/vnpy](https://github.com/Vixoqz/vnpy)** ⭐ 1 · Jupyter Notebook _(updated 2026-06-09)_
-  vnpy (VeighNa): an open-source quantitative trading framework in Python. Build, backtest and run algorithmic trading strategies across futures, stocks, options and crypto through a unified gateway API
+- **[Strouble03/genofinpublic](https://github.com/Strouble03/genofinpublic)** ⭐ 0 · Python _(updated 2026-06-09)_
+  Showcase a scalable, low-latency algorithmic trading framework for multi-exchange quantitative copy-trading with robust backtesting tools.
 
-- **[Vixoqz/vnpy-Machine-Learning](https://github.com/Vixoqz/vnpy-Machine-Learning)** ⭐ 0 · C# _(updated 2026-06-09)_
-  vnpy-Machine-Learning: integrates machine-learning models with the vn.py quantitative-trading framework for AI-driven, data-driven algorithmic trading and backtesting in Python.
+- **[veeral4/clawdfolio](https://github.com/veeral4/clawdfolio)** ⭐ 0 · Python _(updated 2026-06-09)_
+  📊 Aggregate and manage multi-broker quantitative portfolios with advanced risk tools for production-level investment analysis.
+
+- **[Gainium/main-app-sh](https://github.com/Gainium/main-app-sh)** ⭐ 2 · TypeScript _(updated 2026-06-09)_
+  TypeScript-based crypto trading platform backend with automated DCA, Grid, Combo, and Hedge bot strategies, real-time WebSocket streaming, backtesting capabilities, and GraphQL API for portfolio manag
 
 - **[hummingbot/hummingbot](https://github.com/hummingbot/hummingbot)** ⭐ 18843 · Python _(updated 2026-06-09)_
   Open source software that helps you create and deploy high-frequency crypto trading bots
@@ -174,17 +177,14 @@ _Generated at 2026-06-09T01:30:59, run time 25.9s._
 - **[v0acc0002/deepseek-trading-experiment](https://github.com/v0acc0002/deepseek-trading-experiment)** ⭐ 5 · Python _(updated 2026-06-09)_
   🤖 Explore AI-driven trading with the DeepSeek crypto bot, designed for learning rather than profit through backtesting strategies and financial analysis.
 
-- **[Qyxloq/blankly-finance](https://github.com/Qyxloq/blankly-finance)** ⭐ 0 · Python _(updated 2026-06-09)_
-  Blankly-Finance: A powerful Algo-Trading-Framework for stocks, crypto, and forex. Features Multi-Exchange-API, Backtesting, and Trading-Bot tools.
+- **[Sloped-familyunit908/finclaw](https://github.com/Sloped-familyunit908/finclaw)** ⭐ 0 · None _(updated 2026-06-09)_
+  Discover trading strategies using genetic algorithms that evolve automatically to improve financial decision-making.
 
-- **[SevFle/nexus-trade-engine](https://github.com/SevFle/nexus-trade-engine)** ⭐ 0 · Python _(updated 2026-06-09)_
-  AI-native plugin trading framework with full cost modeling. Supports algorithmic, ML, and LLM-powered strategies via a plugin marketplace.
+- **[swarajduttacv/zero](https://github.com/swarajduttacv/zero)** ⭐ 0 · TypeScript _(updated 2026-06-09)_
+  algorithmic trading system for indian equities - real-time llm-powered sentiment analysis, automated kite api execution with sub-4s latency, modular strategy switching.
 
-- **[drag0sd0g/MariaAlpha](https://github.com/drag0sd0g/MariaAlpha)** ⭐ 2 · Java _(updated 2026-06-09)_
-  AI-powered algorithmic trading engine: market data, options pricing & Greeks, execution algos (VWAP/TWAP/POV/IS/Close/Momentum), smart order routing, layered pre-trade risk (sector / beta / ADV / VaR 
-
-- **[Vixoqz/vnpy](https://github.com/Vixoqz/vnpy)** ⭐ 1 · Jupyter Notebook _(updated 2026-06-09)_
-  vnpy (VeighNa): an open-source quantitative trading framework in Python. Build, backtest and run algorithmic trading strategies across futures, stocks, options and crypto through a unified gateway API
+- **[moo-22/opencrypto](https://github.com/moo-22/opencrypto)** ⭐ 2 · Python _(updated 2026-06-09)_
+  Develop a modular framework to build, backtest, and deploy algorithmic trading strategies for cryptocurrency markets efficiently.
 
 - **[Greenrestlessness223/alpha-skills](https://github.com/Greenrestlessness223/alpha-skills)** ⭐ 0 · None _(updated 2026-06-09)_
   Turn any AI coding assistant into a quant researcher for factor discovery, alpha testing, decay tracking, and backtests in natural language
@@ -195,65 +195,66 @@ _Generated at 2026-06-09T01:30:59, run time 25.9s._
 - **[anveshachuri/macro-alpha-oil-shock-india](https://github.com/anveshachuri/macro-alpha-oil-shock-india)** ⭐ 0 · Jupyter Notebook _(updated 2026-06-08)_
   Production-style macro alpha research pipeline for detecting oil shock transmission effects in Indian equity markets using event studies, factor modeling, sentiment analysis, and machine learning.
 
-- **[arrearsstocking863/hedgevision](https://github.com/arrearsstocking863/hedgevision)** ⭐ 0 · None _(updated 2026-06-09)_
-  Build and backtest statistical arbitrage strategies with a local-first Python and React trading platform for cointegrated pairs, paper trading, and scaling
-
 - **[Juanp2389/Kalshi-trade-bot](https://github.com/Juanp2389/Kalshi-trade-bot)** ⭐ 0 · None _(updated 2026-06-09)_
   Trade Kalshi and Polymarket BTC 15m markets with a TypeScript arbitrage bot that spots price gaps and executes paired trades
+
+- **[arrearsstocking863/hedgevision](https://github.com/arrearsstocking863/hedgevision)** ⭐ 0 · None _(updated 2026-06-09)_
+  Build and backtest statistical arbitrage strategies with a local-first Python and React trading platform for cointegrated pairs, paper trading, and scaling
 
 - **[octaviodegodoy/PairTradingAlgo](https://github.com/octaviodegodoy/PairTradingAlgo)** ⭐ 0 · Python _(updated 2026-06-08)_
   Algotrading pair trading arbitrage
 
+- **[chrisli-kw/AutoTradingPlatform](https://github.com/chrisli-kw/AutoTradingPlatform)** ⭐ 48 · Python _(updated 2026-06-09)_
+  A stock/futures auto trading framework using Shioaji API
+
 - **[Vixoqz/vnpy](https://github.com/Vixoqz/vnpy)** ⭐ 1 · Jupyter Notebook _(updated 2026-06-09)_
   vnpy (VeighNa): an open-source quantitative trading framework in Python. Build, backtest and run algorithmic trading strategies across futures, stocks, options and crypto through a unified gateway API
-
-- **[chrisli-kw/AutoTradingPlatform](https://github.com/chrisli-kw/AutoTradingPlatform)** ⭐ 48 · Python _(updated 2026-06-08)_
-  A stock/futures auto trading framework using Shioaji API
 
 - **[Estherc-ai/market-microstructure-frameworks](https://github.com/Estherc-ai/market-microstructure-frameworks)** ⭐ 0 · None _(updated 2026-06-07)_
   “Public research repository documenting theoretical frameworks for derivative, open interest modeling, market maker inventory mechanics, order dynamics,”quantitative-research  quantitative-modeling  v
 
 ## 4. Perplexity Strategy Synthesis
-For a **small retail account** in April 2026, the most actionable setup is usually a *simple, liquid, rule-based strategy* you can execute with tiny risk per trade; that means **crypto momentum with a regime filter** and **equity pair trading** are the most realistic, while **options tail hedges** are only actionable if you can keep cost very low and accept bleed. I can give you concrete trade rules, but I should flag that your request for “recent papers or trading Twitter” and “currently cheap” tail hedges cannot be fully verified from the provided results, so I’ll clearly separate *well-supported structure* from *live-market judgment* that would require fresh market data.
+I can give you a **practical shortlist**, but I can’t honestly label specific edges as “currently cheap” or “degraded in the last 6 months” from the results provided, because the search set here is dominated by generic 2026 retail-trading content rather than the papers, substacks, and trading threads you asked for. The most defensible answer from these sources is: for small accounts, the most actionable setups are **trend-following pullbacks**, **simple mean-reversion/range trades**, and **tight-risk swing trades**, with **1% risk per trade** and **2:1 or better** reward-to-risk emphasized across the results[3][4].
 
-## 1) Crypto momentum with regime filters — most actionable for $100–$1000
+## 1) Crypto momentum with regime filters
 
-This is the best fit for small accounts because crypto is accessible, trades 24/7, and momentum systems can be run on liquid majors like BTC and ETH with very small sizing. General trading guidance for 2026 still emphasizes trend-following, breakout, and momentum rules with explicit entry/exit criteria and tight risk control, which fits this style[1][2][6].
-
-**Core idea**
-- Trade only when the higher-timeframe regime is supportive.
-- Use momentum breakouts or pullback continuations on liquid spot or perp markets.
-- Risk a fixed fraction of equity per trade, typically **0.5%–1%** for a tiny account, because multiple sources stress small-risk discipline for small accounts[3][4].
+The strongest retail-friendly version of this is a **daily/4H trend-following pullback system**: only trade when the higher timeframe is trending, then buy pullbacks to support or breakout retests in the direction of the trend[1][5][6]. The sources here repeatedly point to the same basic structure: identify trend, wait for pullback or breakout confirmation, use volume/momentum confirmation, and exit when momentum weakens[1][5][6].
 
 **Concrete parameters**
-- **Universe:** BTC, ETH, and optionally one or two highly liquid large-cap alts.
-- **Time horizon:** 1–10 days.
-- **Regime filter:** Only long when price is above the **200-day moving average** on the daily chart and the **20-day MA is above the 50-day MA**; only take breakouts when 7-day realized volatility is not collapsing. This is an inference built from the trend-following guidance in the sources, not a directly quoted tested rule[1][2][6].
-- **Entry rule:** Buy when price closes above the **20-day high** after a pullback that holds above the 20-day EMA, or enter on a successful retest of the breakout level.
-- **Exit rule:** Exit on a daily close back below the 20-day EMA, or use a trailing stop under the last 3-day swing low.
-- **Stop loss:** Below the breakout base or below the last swing low, whichever is tighter.
-- **Position sizing:** Risk **0.5%–1% of account equity** per trade; with a $500 account, that is **$2.50–$5 risk** per trade[3][4]. If your stop distance is 5%, position size is roughly \( \text{risk} / 0.05 \), so a $5 risk allows about $100 notional.
+- **Time horizon:** 1–10 days for crypto swing trades; 4H entries aligned with daily trend[1][5][6]
+- **Regime filter:** only long when price is making **higher highs/higher lows** on the daily and the market is not in a choppy range[1][6]
+- **Entry:** buy a pullback to a rising moving average, support zone, or continuation pattern after a trend pullback; require confirmation such as a bullish close or volume expansion[1][5]
+- **Exit:** take partial profits at **2R** or trail under the most recent higher low; exit when support fails or trend structure breaks[1][2][5]
+- **Position sizing:** risk **1% or less** of account equity per trade; if account is $100–$1000, that means roughly **$1–$10 max loss** per setup[3][4]
 
-**What to avoid**
-- Chasing parabolic candles.
-- Trading mid-range chop without a regime filter.
-- Using too many indicators; the sources repeatedly emphasize clear rules and backtesting rather than indicator overload[2][3].
+**What is likely crowded/degraded**
+- The generic “buy every dip in strong crypto” idea is probably the most crowded variant here, especially on large-cap coins.
+- The sources provided do not include enough recent performance evidence to say whether a specific crypto momentum variant degraded in the last 6 months.
 
-**Degradation risk**
-- **Likely degraded if used naively:** pure breakout systems without a regime filter, because these tend to get crowded and whipsawed in sideways markets. The provided sources do not give evidence of last-6-month degradation, so this is a general structural warning rather than a documented recent decline[1][2].
+## 2) Equity pair trading
 
-## 2) Equity pair trading — very actionable if you can trade shares/ETF pairs or CFDs
-
-Pair trading is one of the few systematic equity strategies that can work in a small account because it is market-neutral and can be implemented with simple stat-arb logic, though you need enough access to shorting or a broker that supports pair structures. The generic trading sources you provided emphasize defining entry/exit criteria, position sizing, and backtesting before live deployment[2][4][6].
-
-**Core idea**
-- Find two highly correlated stocks or ETFs.
-- Trade the spread when it deviates from its recent mean.
-- Exit when the spread reverts.
+None of the provided search results give a real pair-trading paper, live stat-arb thread, or recent model update, so I can only give the **standard small-account version**: trade **sector-neutral, liquid pairs** only when the spread is stretched and then mean-reverts to a rolling average. That is the most retail-executable form because it avoids market-direction risk and can be done with tiny capital if you use very few shares and tight risk.
 
 **Concrete parameters**
-- **Universe:** Same-sector, highly liquid names or ETFs; examples would be two large banks, two semis, or two energy names.
-- **Tim
+- **Time horizon:** 2–20 trading days
+- **Universe:** highly liquid same-sector pairs with similar business models
+- **Entry:** compute a simple spread or ratio; enter when spread is **2 standard deviations** from its 20–60 day mean and fundamentals/news do not justify a permanent break
+- **Exit:** close when spread reverts to the mean or reaches **0.5–1.0 standard deviations** from fair value; cut if spread widens to **3 standard deviations** or the relationship structurally breaks
+- **Position sizing:** dollar-neutral if possible; otherwise cap each leg so total account risk remains **1%** or less[3][4]
+
+**What is likely crowded/degraded**
+- Classic retail pair trades in mega-cap names can degrade when everyone uses the same ETF-basket or mean-reversion templates.
+- I cannot verify recent degradation from the supplied results.
+
+## 3) Options tail hedges that are currently cheap
+
+The supplied results do **not** contain options-volatility term structure data, put-skew analysis, or any live evidence that tail hedges are “currently cheap.” So I can’t responsibly tell you what is cheap **right now** from these results alone.
+
+What I *can* say is the most actionable retail version of a tail hedge is usually:
+- **very small premium**
+- **far OTM puts**
+- **defined expiration**
+- bought only when
 
 ---
 _PRIME reviews this brief daily. Actionable strategy proposals get added to Conway's strategy stack only after manual validation and backtest._
